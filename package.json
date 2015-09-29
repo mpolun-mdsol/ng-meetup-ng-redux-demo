@@ -1,0 +1,33 @@
+{
+  "name": "ng-meetup-ng-redux-demo",
+  "version": "1.0.0",
+  "description": "A demo app for ng-redux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxpolun/ng-meetup-redux-demo.git"
+  },
+  "author": "Max Polun <mpolun@mdsol.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxpolun/ng-meetup-redux-demo/issues"
+  },
+  "homepage": "https://github.com/maxpolun/ng-meetup-redux-demo#readme",
+  "dependencies": {
+    "angular": "^1.4.5",
+    "angular-ui-router": "^0.2.15",
+    "babel-core": "^5.8.24",
+    "babel-loader": "^5.3.2",
+    "css-loader": "^0.18.0",
+    "ng-redux": "^3.0.0",
+    "node-sass": "^3.3.2",
+    "redux": "^3.0.0",
+    "sass-loader": "^2.0.1",
+    "style-loader": "^0.12.3",
+    "webpack": "^1.12.1",
+    "webpack-dev-server": "^1.11.0"
+  }
+}

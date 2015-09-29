@@ -1,0 +1,3 @@
+export const USER_CREATED = 'USER_CREATED'
+export const USER_DESTROYED = 'USER_DESTROYED'
+export const USER_UPDATED = 'USER_UPDATED'
